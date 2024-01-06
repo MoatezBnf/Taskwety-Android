@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943671066828",
+    "project_id": "taskwety-android",
+    "storage_bucket": "taskwety-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943671066828:android:6c1acfc422e53c518bc269",
+        "android_client_info": {
+          "package_name": "com.example.taskwety_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIXXARY_fYwF0dYmaFDSmS7DTABezsi1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
